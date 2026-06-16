@@ -8,18 +8,17 @@
 | New ads today | 0 |
 | Turned off today | 0 |
 | Reactivated today | 0 |
-| Duplicate ads | 1 |
-| Duplicate groups | 0 |
+| Duplicate ads | 0 |
+| New pages added | 0 |
 
 ## Page Summary
 
-| Page | Active Ads | New Ads | Turned Off | Duplicates |
-|---|---:|---:|---:|---:|
-| [[Sample Competitor]] | 1 | 0 | 0 | 1 |
+| Page | Status | Active Ads | New Ads | Turned Off | Reactivated | Duplicates |
+|---|---|---:|---:|---:|---:|---:|
 
 ## Interesting Changes
 
-- Single snapshot saved. Import two days together to see kept, dropped, and new ads.
+- 
 
 ## Analysis
 

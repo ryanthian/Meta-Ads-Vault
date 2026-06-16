@@ -1,2 +1,1 @@
-"ad_id","page_id","page_name","product","first_observed_by_us","meta_active_since","last_observed_active","current_status","days_observed_running","creative_hash","duplicate_group","creative_type","hook","offer","landing_url","shopee_url","notes"
-"123456789","abb5bf03","Sample Competitor","s.shopee.com.my: demo","2026-06-16","2026-06-01","2026-06-16","Active","15","9b8701b5","9b8701b5","","Sample voucher ad for testing.","","https://s.shopee.com.my/demo","https://s.shopee.com.my/demo",""
+ad_id,page_id,page_name,product,first_observed_by_us,meta_active_since,last_observed_active,current_status,days_observed_running,creative_hash,duplicate_group,creative_type,hook,offer,landing_url,shopee_url,notes
