@@ -1,27 +1,24 @@
-# 2026-06-17
+# Today
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| Active ads | 5 |
+| Active ads | 0 |
 | New ads today | 0 |
 | Turned off today | 0 |
 | Reactivated today | 0 |
-| Duplicate ads | 1 |
-| Duplicate groups | 1 |
+| Duplicate ads | 0 |
+| New pages added | 0 |
 
 ## Page Summary
 
-| Page | Active Ads | New Ads | Turned Off | Duplicates |
-|---|---:|---:|---:|---:|
-| [[S.Shopee Deals]] | 2 | 0 | 0 | 0 |
-| [[Shopee Malaysia]] | 2 | 0 | 0 | 1 |
-| [[MY Voucher Hub]] | 1 | 0 | 0 | 0 |
+| Page | Status | Active Ads | New Ads | Turned Off | Reactivated | Duplicates |
+|---|---|---:|---:|---:|---:|---:|
 
 ## Interesting Changes
 
-- Single snapshot saved. Import two days together to see kept, dropped, and new ads.
+- 
 
 ## Analysis
 
