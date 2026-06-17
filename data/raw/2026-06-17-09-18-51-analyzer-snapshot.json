@@ -1,0 +1,328 @@
+{
+  "capturedAt": "2026-06-17T09:18:51.968Z",
+  "rows": [
+    {
+      "libraryId": "123456789",
+      "pageName": "Shopee Malaysia",
+      "pageUrl": "https://www.facebook.com/ShopeeMY/",
+      "adDetailsUrl": "https://www.facebook.com/ads/library/?id=123456789",
+      "destinationUrls": [
+        "https://s.shopee.com.my/demo1"
+      ],
+      "postUrls": [],
+      "status": "Active",
+      "startDate": "2026-05-31T16:00:00.000Z",
+      "runningDays": 16,
+      "creativeUseCount": 1,
+      "hasMultipleVersions": false,
+      "creativeText": "Malaysia Shop smarter with free shipping vouchers and app-only daily deals. https://s.shopee.com.my/demo1",
+      "rawText": "Active Library ID: 123456789 Started running on Jun 1, 2026 Platforms Open Drop-down See ad details Shopee Malaysia Sponsored Malaysia Shop smarter with free shipping vouchers and app-only daily deals. https://s.shopee.com.my/demo1",
+      "angles": [
+        "Voucher / Discount"
+      ],
+      "hook": "Malaysia Shop smarter with free shipping vouchers and app-only daily deals.",
+      "productHint": "s.shopee.com.my: demo1",
+      "winnerScore": 18,
+      "winnerTier": "Low Signal",
+      "winnerReasons": [
+        {
+          "points": 6,
+          "reason": "Still active after the first week"
+        },
+        {
+          "points": 4,
+          "reason": "Uses discount or voucher angle"
+        },
+        {
+          "points": 4,
+          "reason": "Funnel link detected"
+        },
+        {
+          "points": 2,
+          "reason": "Ad details link available"
+        },
+        {
+          "points": 2,
+          "reason": "Page link available"
+        }
+      ],
+      "pageAdCount": 2,
+      "repeatedLinkCount": 1,
+      "engagement": {
+        "likes": null,
+        "comments": null,
+        "shares": null
+      }
+    },
+    {
+      "libraryId": "223456789",
+      "pageName": "S.Shopee Deals",
+      "pageUrl": "https://www.facebook.com/sshopee.demo/",
+      "adDetailsUrl": "https://www.facebook.com/ads/library/?id=223456789",
+      "destinationUrls": [
+        "https://s.shopee.com.my/demo2"
+      ],
+      "postUrls": [],
+      "status": "Active",
+      "startDate": "2026-05-11T16:00:00.000Z",
+      "runningDays": 36,
+      "creativeUseCount": 1,
+      "hasMultipleVersions": false,
+      "creativeText": "Lazada and Shopee voucher comparison. Claim before midnight. https://s.shopee.com.my/demo2",
+      "rawText": "Active Library ID: 223456789 Started running on May 12, 2026 Platforms Open Drop-down See ad details S.Shopee Deals Sponsored Lazada and Shopee voucher comparison. Claim before midnight. https://s.shopee.com.my/demo2",
+      "angles": [
+        "Voucher / Discount",
+        "Urgency",
+        "Problem / Solution",
+        "Shop Now CTA"
+      ],
+      "hook": "Lazada and Shopee voucher comparison.",
+      "productHint": "s.shopee.com.my: demo2",
+      "winnerScore": 29,
+      "winnerTier": "Low Signal",
+      "winnerReasons": [
+        {
+          "points": 12,
+          "reason": "Past the first-month testing stage"
+        },
+        {
+          "points": 4,
+          "reason": "Uses discount or voucher angle"
+        },
+        {
+          "points": 3,
+          "reason": "Uses urgency angle"
+        },
+        {
+          "points": 2,
+          "reason": "Has direct shop-now CTA"
+        },
+        {
+          "points": 4,
+          "reason": "Funnel link detected"
+        },
+        {
+          "points": 2,
+          "reason": "Ad details link available"
+        },
+        {
+          "points": 2,
+          "reason": "Page link available"
+        }
+      ],
+      "pageAdCount": 2,
+      "repeatedLinkCount": 1,
+      "engagement": {
+        "likes": null,
+        "comments": null,
+        "shares": null
+      }
+    },
+    {
+      "libraryId": "323456789",
+      "pageName": "Shopee Malaysia",
+      "pageUrl": "https://www.facebook.com/ShopeeMY/",
+      "adDetailsUrl": "https://www.facebook.com/ads/library/?id=323456789",
+      "destinationUrls": [],
+      "postUrls": [],
+      "status": "Active",
+      "startDate": "2026-04-27T16:00:00.000Z",
+      "runningDays": 50,
+      "creativeUseCount": 3,
+      "hasMultipleVersions": true,
+      "creativeText": "6.6 sale is live. Coins cashback, seller picks, and limited flash sale.",
+      "rawText": "Active Library ID: 323456789 Started running on Apr 28, 2026 Platforms 3 ads use this creative and text Open Drop-down See ad details Shopee Malaysia Sponsored 6.6 sale is live. Coins cashback, seller picks, and limited flash sale.",
+      "angles": [
+        "Voucher / Discount",
+        "Urgency"
+      ],
+      "hook": "6.6 sale is live.",
+      "productHint": "Coins cashback",
+      "winnerScore": 42,
+      "winnerTier": "Watch / Research",
+      "winnerReasons": [
+        {
+          "points": 12,
+          "reason": "Past the first-month testing stage"
+        },
+        {
+          "points": 19,
+          "reason": "3 ads use this creative/text signal"
+        },
+        {
+          "points": 4,
+          "reason": "Uses discount or voucher angle"
+        },
+        {
+          "points": 3,
+          "reason": "Uses urgency angle"
+        },
+        {
+          "points": 2,
+          "reason": "Ad details link available"
+        },
+        {
+          "points": 2,
+          "reason": "Page link available"
+        }
+      ],
+      "pageAdCount": 2,
+      "repeatedLinkCount": 0,
+      "engagement": {
+        "likes": null,
+        "comments": null,
+        "shares": null
+      }
+    },
+    {
+      "libraryId": "423456789",
+      "pageName": "MY Voucher Hub",
+      "pageUrl": "https://www.facebook.com/voucherhub.demo/",
+      "adDetailsUrl": "https://www.facebook.com/ads/library/?id=423456789",
+      "destinationUrls": [],
+      "postUrls": [],
+      "status": "Active",
+      "startDate": "2026-02-18T16:00:00.000Z",
+      "runningDays": 118,
+      "creativeUseCount": 1,
+      "hasMultipleVersions": false,
+      "creativeText": "Shopee code round-up for Malaysia shoppers.",
+      "rawText": "Active Library ID: 423456789 Started running on Feb 19, 2026 Platforms Open Drop-down See ad details MY Voucher Hub Sponsored Shopee code round-up for Malaysia shoppers.",
+      "angles": [
+        "Voucher / Discount"
+      ],
+      "hook": "Shopee code round-up for Malaysia shoppers.",
+      "productHint": "Shopee code round-up for Malaysia shoppers",
+      "winnerScore": 28,
+      "winnerTier": "Low Signal",
+      "winnerReasons": [
+        {
+          "points": 20,
+          "reason": "Long-running ad over 90 days"
+        },
+        {
+          "points": 4,
+          "reason": "Uses discount or voucher angle"
+        },
+        {
+          "points": 2,
+          "reason": "Ad details link available"
+        },
+        {
+          "points": 2,
+          "reason": "Page link available"
+        }
+      ],
+      "pageAdCount": 1,
+      "repeatedLinkCount": 0,
+      "engagement": {
+        "likes": null,
+        "comments": null,
+        "shares": null
+      }
+    },
+    {
+      "libraryId": "523456789",
+      "pageName": "S.Shopee Deals",
+      "pageUrl": "https://www.facebook.com/sshopee.demo/",
+      "adDetailsUrl": "https://www.facebook.com/ads/library/?id=523456789",
+      "destinationUrls": [],
+      "postUrls": [],
+      "status": "Active",
+      "startDate": "2026-01-03T16:00:00.000Z",
+      "runningDays": 164,
+      "creativeUseCount": 1,
+      "hasMultipleVersions": false,
+      "creativeText": "Best seller items with new user deals.",
+      "rawText": "Active Library ID: 523456789 Started running on Jan 4, 2026 Platforms Open Drop-down See ad details S.Shopee Deals Sponsored Best seller items with new user deals.",
+      "angles": [
+        "Generic Product Push"
+      ],
+      "hook": "Best seller items with new user deals.",
+      "productHint": "Best seller items with new user deals",
+      "winnerScore": 24,
+      "winnerTier": "Low Signal",
+      "winnerReasons": [
+        {
+          "points": 20,
+          "reason": "Long-running ad over 90 days"
+        },
+        {
+          "points": 2,
+          "reason": "Ad details link available"
+        },
+        {
+          "points": 2,
+          "reason": "Page link available"
+        }
+      ],
+      "pageAdCount": 2,
+      "repeatedLinkCount": 0,
+      "engagement": {
+        "likes": null,
+        "comments": null,
+        "shares": null
+      }
+    }
+  ],
+  "pageCounts": [
+    {
+      "pageName": "S.Shopee Deals",
+      "pageUrl": "https://www.facebook.com/sshopee.demo/",
+      "count": 2,
+      "datedCount": 2,
+      "oldestDays": 164,
+      "newestDays": 36
+    },
+    {
+      "pageName": "Shopee Malaysia",
+      "pageUrl": "https://www.facebook.com/ShopeeMY/",
+      "count": 2,
+      "datedCount": 2,
+      "oldestDays": 50,
+      "newestDays": 16
+    },
+    {
+      "pageName": "MY Voucher Hub",
+      "pageUrl": "https://www.facebook.com/voucherhub.demo/",
+      "count": 1,
+      "datedCount": 1,
+      "oldestDays": 118,
+      "newestDays": 118
+    }
+  ],
+  "duplicateCreatives": [
+    {
+      "key": "# # sale is live coins cashback seller picks and limited flash sale",
+      "totalUses": 3,
+      "detectedCount": 1,
+      "metaCount": 3,
+      "scaleType": "Same-page scaling pattern",
+      "signalType": "Meta creative/text count",
+      "actionLabel": "Test your own version",
+      "lead": {
+        "libraryId": "323456789",
+        "pageName": "Shopee Malaysia",
+        "pageUrl": "https://www.facebook.com/ShopeeMY/",
+        "productHint": "Coins cashback",
+        "hook": "6.6 sale is live.",
+        "creativeText": "6.6 sale is live. Coins cashback, seller picks, and limited flash sale.",
+        "runningDays": 50
+      },
+      "pageBreakdown": [
+        {
+          "pageName": "Shopee Malaysia",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "snapshotComparison": {
+    "available": false,
+    "reason": "Import at least two capture JSON/text files together to compare yesterday vs today.",
+    "previousSnapshot": null,
+    "currentSnapshot": null,
+    "totals": {},
+    "pages": []
+  }
+}
