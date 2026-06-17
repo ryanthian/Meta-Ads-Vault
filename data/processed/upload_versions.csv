@@ -1,0 +1,2 @@
+version_id,captured_at,date,source,file_count,file_names,total_ads,total_pages,new_ads,turned_off_ads,duplicate_ads,duplicate_groups,raw_file,note_file,notes
+legacy-before-version-tracking,2026-06-17T09:32:30.000Z,2026-06-17,legacy-migrated,1,data/raw/2026-06-17-09-32-30-analyzer-snapshot.json,230,4,46,75,126,140,data/raw/2026-06-17-09-32-30-analyzer-snapshot.json,07 Upload Versions/legacy-before-version-tracking.md,Existing saved data before upload version tracking was added.
