@@ -1,4 +1,1 @@
-"date","page_id","page_name","page_status","active_ads","new_ads","turned_off_ads","reactivated_ads","duplicate_ads","duplicate_groups","notes"
-"2026-06-17","1b2bdaf0","S.Shopee Deals","Watching","2","","","","0","2",""
-"2026-06-17","e01def7a","Shopee Malaysia","Watching","2","","","","1","2",""
-"2026-06-17","304f41c8","MY Voucher Hub","Watching","1","","","","0","1",""
+date,page_id,page_name,page_status,active_ads,new_ads,turned_off_ads,reactivated_ads,duplicate_ads,duplicate_groups,notes

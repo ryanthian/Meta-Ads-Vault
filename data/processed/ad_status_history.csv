@@ -1,6 +1,1 @@
-"date","ad_id","page_id","page_name","status","first_observed_by_us","meta_active_since","days_observed_running","creative_hash","duplicate_group","landing_url","notes"
-"2026-06-17","123456789","e01def7a","Shopee Malaysia","Active","2026-06-17","2026-05-31","16","85545af0","85545af0","https://s.shopee.com.my/demo1",""
-"2026-06-17","223456789","1b2bdaf0","S.Shopee Deals","Active","2026-06-17","2026-05-11","36","3695f6bc","3695f6bc","https://s.shopee.com.my/demo2",""
-"2026-06-17","323456789","e01def7a","Shopee Malaysia","Active","2026-06-17","2026-04-27","50","d9f4b521","d9f4b521","",""
-"2026-06-17","423456789","304f41c8","MY Voucher Hub","Active","2026-06-17","2026-02-18","118","32db4960","32db4960","",""
-"2026-06-17","523456789","1b2bdaf0","S.Shopee Deals","Active","2026-06-17","2026-01-03","164","cb350c7c","cb350c7c","",""
+date,ad_id,page_id,page_name,status,first_observed_by_us,meta_active_since,days_observed_running,creative_hash,duplicate_group,landing_url,notes

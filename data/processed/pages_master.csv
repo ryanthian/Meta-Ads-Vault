@@ -1,4 +1,1 @@
-"page_id","page_name","page_url","date_added","first_observed_by_us","niche","status","priority","last_checked","active_ads_count","notes"
-"304f41c8","MY Voucher Hub","https://www.facebook.com/voucherhub.demo/","2026-06-17","2026-06-17","","New","Low","2026-06-17","1",""
-"1b2bdaf0","S.Shopee Deals","https://www.facebook.com/sshopee.demo/","2026-06-17","2026-06-17","","New","Low","2026-06-17","2",""
-"e01def7a","Shopee Malaysia","https://www.facebook.com/ShopeeMY/","2026-06-17","2026-06-17","","New","Low","2026-06-17","2",""
+page_id,page_name,page_url,date_added,first_observed_by_us,niche,status,priority,last_checked,active_ads_count,notes
